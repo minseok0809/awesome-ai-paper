@@ -29,7 +29,7 @@
 
 |   | Title                                                                                                 | Author                   | Publisher               | Year |
 | - | ----------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ---- |
-| 1 | Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning | Delip Rao, Brian McMahan |  O'Reilly Media         | 2019 |
+| 1 | Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning | Delip Rao, Brian McMahan | O'Reilly Media         | 2019 |
 | 2 | Interpretable Machine Learning: A Guide for Making Black Box Models Explainable                       | Christoph Molnar         | Independently published | 2022 |
 
 <br><br><br><br>
