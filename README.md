@@ -4,13 +4,13 @@
 |    | Title                                                                                                         | Journal/Conference | Date       | Author                      | Link                                                          |
 | -- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | --------------------------- | ------------------------------------------------------------- |
 | 1  | Adaptive Mixtures of Local Experts                                                                            | MIT Press 1991     | 1991-03-01 | Robert A. Jacobs et al      | [Link](https://ieeexplore.ieee.org/abstract/document/6797059) |
-| 2  | BLEU: a method for automatic evaluation of machine translation                                                |  ACL 2002          | 2002-07-01 | Kishore Papineni et al      | [Link](https://dl.acm.org/doi/10.3115/1073083.1073135)        |
+| 2  | BLEU: a method for automatic evaluation of machine translation                                                | ACL 2002          | 2002-07-01 | Kishore Papineni et al      | [Link](https://dl.acm.org/doi/10.3115/1073083.1073135)        |
 | 3  | Model Compression                                                                                             | ACM SIGKDD 2006    | 2006-08-20 | Cristian Bucil˘a et al      | [Link](https://dl.acm.org/doi/abs/10.1145/1150402.1150464)    |
-| 4  | Large-Scale Distributed Language Modeling                                                                     |  IEEE 2007         | 2007-04-05 | Ahmad Emami et al           | [Link](https://ieeexplore.ieee.org/document/4218031)          |
+| 4  | Large-Scale Distributed Language Modeling                                                                     | IEEE 2007         | 2007-04-05 | Ahmad Emami et al           | [Link](https://ieeexplore.ieee.org/document/4218031)          |
 | 5  | Large Language Models in Machine Translation                                                                  | EMNLP 2007         | 2007-06-01 | Thorsten Brants et al       | [Link](https://aclanthology.org/D07-1090/)                    |
 | 6  | Efficient Estimation of Word Representations in Vector Space                                                  |                    | 2013-01-16 | Tomas Mikolov et al         | [Link](http://arxiv.org/abs/1301.3781v3)                      |
-| 7  | Linguistic Regularities in Continuous Space Word Representations                                              |  NAACL 2013        | 2013-06-01 | Tomas Mikolov et al         | [Link](https://aclanthology.org/N13-1090/)                    |
-| 8  | Dropout: A Simple Way to Prevent Neural Networks from Overfitting                                             |  JMLR 2014         | 2014-01-01 | Nitish Srivastava et al     | [Link](https://ieeexplore.ieee.org/abstract/document/6797059) |
+| 7  | Linguistic Regularities in Continuous Space Word Representations                                              | NAACL 2013        | 2013-06-01 | Tomas Mikolov et al         | [Link](https://aclanthology.org/N13-1090/)                    |
+| 8  | Dropout: A Simple Way to Prevent Neural Networks from Overfitting                                             | JMLR 2014         | 2014-01-01 | Nitish Srivastava et al     | [Link](https://ieeexplore.ieee.org/abstract/document/6797059) |
 | 9  | Neural Machine Translation by Jointly Learning to Align and Translate                                         | ICLR  2015         | 2014-09-01 | Dzmitry Bahdanau et al      | [Link](http://arxiv.org/abs/1409.0473v7)                      |
 | 10 | Sequence to Sequence Learning with Neural Networks                                                            | NeurIPS 2014       | 2014-09-10 | Ilya Sutskever et al        | [Link](http://arxiv.org/abs/1409.3215v3)                      |
 | 11 | Distilling the Knowledge in a Neural Network                                                                  | NIPS  2014         | 2015-03-09 | Geoffrey Hinton et al       | [Link](http://arxiv.org/abs/1503.02531v1)                     |
@@ -46,7 +46,6 @@
 <br><br><br><br>
 
 # Future Work
-<br>
 <br><b>Google Schloar Crawler</b>
 <br>What's recent paper cited by the paper
 
