@@ -59,7 +59,14 @@
 | 54 | A Survey on Model Compression and Acceleration for Pretrained Language Models                                     | AAAI  2023          | 2022-02-15 | Canwen Xu et al             | [Link](http://arxiv.org/abs/2202.07105v2)                                                                                                             |
 | 55 | BiBERT: Accurate Fully Binarized BERT                                                                             | ICLR 2022           | 2022-03-12 | Haotong Qin et al           | [Link](http://arxiv.org/abs/2203.06390v1)                                                                                                             |
 
-<br><br><br><br>
+<br><br>
+
+## Theme
+`Machine Translation` `Natural Language Understanding (NLU)` `Text Generation`
+<br/>`Meta Learning` `Ensemble` `Explainable Artificial Intelligence (XAI)`
+<br/>`Knoweldge Distillation` `Quantization` `Pruning` `Low-Rank Factorization`
+<br/><br/><br/><br/><br/><br/><br/>
+
 
 # AI Book
 <br>
