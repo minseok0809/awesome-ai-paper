@@ -87,8 +87,5 @@
 <br><b>Google Schloar Crawler</b>
 <br>What's recent paper cited by the paper
 
-<br><b>AI Paper</b>
-<br>Theme Column (Next Link Column)
-
 <br><br><br><br>
 
