@@ -59,9 +59,9 @@
 |                           | 54                                        | BiBERT: Accurate Fully Binarized BERT                                                                             | 2022-03-12                                                                                 | Haotong Qin et al         | [Link](http://arxiv.org/abs/2203.06390v1)                                                                                                             |
 | Early Exit                                | 55                                                                                                                | BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks                     | 2017-09-06                | Surat Teerapittayanon et al                                                                                                                           | [Link](http://arxiv.org/abs/1709.01686v1)                     |
 
-<br><br>
+<br><br><br/><br/>
 
-## Theme
+# Theme
 `Neural Network` `Benchmark` `Word Embedding`
 <br/>`Explainable Artificial Intelligence (XAI)`
 <br/>`Language Model` `Pre-Trained Language Model` 
@@ -71,18 +71,8 @@
 <br/>`Model Compression` `Knoweldge Distillation` `Quantization` `Pruning` 
 <br/>`Low-Rank Factorization` `Early Exit`
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
-
-# AI Book
-<br>
-
-|   | Title                                                                                                 | Author                   | Publisher               | Year |
-| - | ----------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ---- |
-| 1 | Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning | Delip Rao, Brian McMahan | O'Reilly Media         | 2019 |
-| 2 | Interpretable Machine Learning: A Guide for Making Black Box Models Explainable                       | Christoph Molnar         | Independently published | 2022 |
-
-<br><br><br><br>
 
 # Future Work
 <br><b>Google Schloar Crawler</b>
