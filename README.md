@@ -1,3 +1,15 @@
+# Theme
+`Neural Network` &nbsp; `Benchmark` &nbsp; `Word Embedding`
+<br/>`Explainable Artificial Intelligence (XAI)`
+<br/>`Language Model` &nbsp; `Pre-Trained Language Model` 
+<br/>`Multimodal Learning` &nbsp; `Image Classification` 
+<br/>`Machine Translation` &nbsp; `Natural Language Understanding (NLU)` &nbsp; `Text Generation`
+<br/>`Meta Learning` &nbsp; `Continual Learning` &nbsp; `Mixture of Experts` &nbsp; `Ensemble` 
+<br/>`Model Compression` &nbsp; `Knoweldge Distillation` &nbsp; `Quantization`&nbsp;  `Pruning` 
+<br/>`Low-Rank Factorization` &nbsp;  `Early Exit`
+
+<br><br><br/><br/>
+
 # AI Paper
 <br>
 
@@ -59,17 +71,7 @@
 |                            | 54                                        | BiBERT: Accurate Fully Binarized BERT                                                                             | ICLR 2022                                                                                  | 2022-03-12                                | Haotong Qin et al         | [Link](http://arxiv.org/abs/2203.06390v1)                                                                                                             |
 | Early Exit                                | 55                                                                                                                | BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks                     |                                           | 2017-09-06                | Surat Teerapittayanon et al                                                                                                                           | [Link](http://arxiv.org/abs/1709.01686v1)                     |
 
-<br><br><br/><br/>
 
-# Theme
-`Neural Network` `Benchmark` `Word Embedding`
-<br/>`Explainable Artificial Intelligence (XAI)`
-<br/>`Language Model` `Pre-Trained Language Model` 
-<br/>`Multimodal Learning` `Image Classification` 
-<br/>`Machine Translation` `Natural Language Understanding (NLU)` `Text Generation`
-<br/>`Meta Learning` `Continual Learning` `Mixture of Experts` `Ensemble` 
-<br/>`Model Compression` `Knoweldge Distillation` `Quantization` `Pruning` 
-<br/>`Low-Rank Factorization` `Early Exit`
 
 <br/><br/><br/><br/><br/>
 
