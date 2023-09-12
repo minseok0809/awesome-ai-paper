@@ -8,7 +8,7 @@
 <br/>`Model Compression` &nbsp; `Knoweldge Distillation` &nbsp; `Quantization`&nbsp;  `Pruning` 
 <br/>`Low-Rank Factorization` &nbsp;  `Early Exit`
 
-<br><br><br/><br/>
+<br><br><br/>
 
 # AI Paper
 <br>
