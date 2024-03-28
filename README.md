@@ -1,7 +1,7 @@
 # Theme
 
-<a href="#neural-network">Neural Network</a><br />
-<a href="#benchmark">Benchmark</a><br />
+<a href="#neural-network">Neural Network</a></br>
+<a href="#benchmark">Benchmark</a></br>
 <a href="#word-embedding">Word Embedding</a><br />
 <a href="#security">Security</a><br />
 <a href="#explainable-artificial-intelligence">Explainable Artificial Intelligence (XAI)</a><br />
