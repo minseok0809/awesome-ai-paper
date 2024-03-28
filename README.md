@@ -7,7 +7,6 @@
 <a href="##explainable-artificial-intelligence">Explainable Artificial Intelligence (XAI)</a><br />
 <a href="##language-model">Language Model</a><br />
 <a href="##computer-vision">Computer Vision</a><br /> 
-<a href="##multimodal-learning">Multimodal Learning</a><br />
 <a href="##reinforcement-learning">Reinforcement Learning</a><br />
 <a href="##meta-learning">Meta Learning</a><br />
 <a href="##continual-learning">Continual Learning</a><br />
