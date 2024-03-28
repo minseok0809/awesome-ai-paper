@@ -1,22 +1,21 @@
 # Theme
 
-<a href="##neural-network">Neural Network</a><br />
+<a href="#neural-network">Neural Network</a><br />
 <a href="##benchmark">Benchmark</a><br />
 <a href="##word-embedding">Word Embedding</a><br />
 <a href="##security">Security</a><br />
-<a href="#explainable-artificial-intelligence">Explainable Artificial Intelligence (XAI)</a><br />
-<a href="#language-model">Language Model</a><br />
-<a href="#reinforcement-learning">Reinforcement Learning</a><br />
-<a href="#computer-vision">Computer Vision</a><br /> 
-<a href="#multimodal-learning">Multimodal Learning</a><br />
-<a href="#image-classification">Image Classification</a><br />
-<a href="#meta-learning">Meta Learning</a><br />
-<a href="#continual-learning">Continual Learning</a><br />
-<a href="#mixture-of-experts">Mixture of Experts</a><br />
-<a href="#ensemble">Ensemble</a><br />
-<a href="#model-compression">Model Compression</a><br />
-<a href="#knoweldge-distillation">Knoweldge Distillation</a><br />
-<a href="#quantization">Quantization</a><br />
+<a href="##explainable-artificial-intelligence">Explainable Artificial Intelligence (XAI)</a><br />
+<a href="##language-model">Language Model</a><br />
+<a href="##computer-vision">Computer Vision</a><br /> 
+<a href="##multimodal-learning">Multimodal Learning</a><br />
+<a href="##reinforcement-learning">Reinforcement Learning</a><br />
+<a href="##meta-learning">Meta Learning</a><br />
+<a href="##continual-learning">Continual Learning</a><br />
+<a href="##mixture-of-experts">Mixture of Experts</a><br />
+<a href="##ensemble">Ensemble</a><br />
+<a href="##model-compression">Model Compression</a><br />
+<a href="##knoweldge-distillation">Knoweldge Distillation</a><br />
+<a href="##quantization">Quantization</a><br />
 
 <br><br><br/>
 
